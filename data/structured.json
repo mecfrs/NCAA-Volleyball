@@ -1,0 +1,112 @@
+[
+  {
+    "rank": 1,
+    "name": "Maddie Waak",
+    "team": "Texas A&M",
+    "per_set": 11.51,
+    "assists": 495.0,
+    "cl": "Sr.",
+    "height": "5-10",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 2,
+    "name": "Charlie Fuerbringer",
+    "team": "Wisconsin",
+    "per_set": 11.35,
+    "assists": 352.0,
+    "cl": "So.",
+    "height": "5-11",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 3,
+    "name": "Chloe Wilmot",
+    "team": "Duquesne",
+    "per_set": 11.29,
+    "assists": 576.0,
+    "cl": "Jr.",
+    "height": "5-9",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 4,
+    "name": "Averi Carlson",
+    "team": "SMU",
+    "per_set": 11.29,
+    "assists": 542.0,
+    "cl": "Sr.",
+    "height": "5-11",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 5,
+    "name": "Cayley Hanson",
+    "team": "Mississippi St.",
+    "per_set": 11.17,
+    "assists": 469.0,
+    "cl": "So.",
+    "height": "6-2",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 6,
+    "name": "Teodora Kričković",
+    "team": "Indiana",
+    "per_set": 11.05,
+    "assists": 453.0,
+    "cl": "Fr.",
+    "height": "6-1",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 7,
+    "name": "Sydney Draper",
+    "team": "Princeton",
+    "per_set": 11.03,
+    "assists": 386.0,
+    "cl": "Jr.",
+    "height": "5-11",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 8,
+    "name": "Alex Bower",
+    "team": "BYU",
+    "per_set": 11.02,
+    "assists": 529.0,
+    "cl": "So.",
+    "height": "5-11",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 9,
+    "name": "Rian Finley",
+    "team": "Colorado",
+    "per_set": 10.77,
+    "assists": 474.0,
+    "cl": "Jr.",
+    "height": "6-0",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  },
+  {
+    "rank": 10,
+    "name": "Malayah Long",
+    "team": "Michigan St.",
+    "per_set": 10.72,
+    "assists": 461.0,
+    "cl": "Fr.",
+    "height": "6-1",
+    "source_url": "https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3",
+    "extracted_at": "2025-10-02T01:57:26.799879+00:00"
+  }
+]

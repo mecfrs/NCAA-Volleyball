@@ -1,0 +1,739 @@
+=== RAW_BLOB METADATA ===
+url: https://www.ncaa.com/stats/volleyball-women/d1/current/individual/3
+fetched_at_utc: 2025-10-02T00:38:39.687736+00:00
+user_agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36
+=========================
+
+NCAA College Women's Volleyball DI current individual Stats | NCAA.com
+Skip to main content
+View
+All Scores
+📈 TRENDING
+🏒 6 men's hockey storylines
+📊 Top 10 HBCU players after 1 month
+💪 Arizona State enters WVB power rankings
+🏈 Oregon is NEW No. 2 in AP poll
+NCAA.com
+Live Video
+Sports
+Sports
+Fall
+Cross Country - Men
+Cross Country - Women
+Cross Country
+M
+Men
+W
+Women
+Field Hockey
+Football
+Individual Tennis (DI) - Men
+Individual Tennis (DI) - Women
+Individual Tennis (DI)
+M
+Men
+W
+Women
+Soccer - Men
+Soccer - Women
+Soccer
+M
+Men
+W
+Women
+Volleyball - Women
+Water Polo - Men
+Winter
+Basketball - Men
+Basketball - Women
+Basketball
+M
+Men
+W
+Women
+Bowling
+Fencing
+Gymnastics - Men
+Gymnastics - Women
+Gymnastics
+M
+Men
+W
+Women
+Ice Hockey - Men
+Ice Hockey - Women
+Ice Hockey
+M
+Men
+W
+Women
+Rifle
+Skiing
+Swimming & Diving - Men
+Swimming & Diving - Women
+Swimming & Diving
+M
+Men
+W
+Women
+Track & Field (I) - Men
+Track & Field (I) - Women
+Track & Field (I)
+M
+Men
+W
+Women
+Wrestling - Men
+Wrestling - Women
+Wrestling
+M
+Men
+W
+Women
+Spring
+Baseball
+Beach Volleyball
+Golf - Men
+Golf - Women
+Golf
+M
+Men
+W
+Women
+Lacrosse - Men
+Lacrosse - Women
+Lacrosse
+M
+Men
+W
+Women
+Rowing
+Softball
+Tennis - Men
+Tennis - Women
+Tennis
+M
+Men
+W
+Women
+Track & Field (O) - Men
+Track & Field (O) - Women
+Track & Field (O)
+M
+Men
+W
+Women
+Volleyball - Men
+Water Polo - Women
+Video
+March Madness
+March Madness
+March Madness Live (DI MBB)
+Home
+Scores
+My Picks
+Official Bracket
+March Madness (DI WBB)
+Home
+Scores
+My Picks
+Official Bracket
+March Madness Live (DI MBB)
+March Madness (DI WBB)
+Schools
+Trending Schools
+All Schools
+Nebraska
+Ohio St.
+Notre Dame
+Alabama
+Clemson
+Oklahoma
+Florida St.
+Mississippi
+Oregon
+Wash. & Jeff.
+Shop
+Shop
+Home
+NCAA Championships Gear
+Men’s Gear
+Women’s Gear
+Kids Gear
+T-Shirts
+Jerseys
+Sideline Gear
+Tickets
+Tickets
+NCAATickets.com
+NCAA Championship Tickets
+FCS
+Women's Volleyball
+Men's Basketball
+Women's Basketball
+NCAA Hospitality Experiences
+NCAA Tournament
+Men's Final Four
+Women's Final Four
+Men’s College World Series
+Women’s College World Series
+Marriott Bonvoy
+Marriott Bonvoy Travel Hub
+Settings
+Settings
+Feedback
+Women's Volleyball
+DI
+DII
+DIII
+Home
+Scores
+Bracket
+Rankings
+Stats
+Video
+History
+Champ Info
+BROADCAST SCHEDULE
+PRESENTED BY
+INDIVIDUAL STATISTICS
+Select an Individual Statistic
+Aces Per Set
+Assists Per Set
+Attacks Per Set
+Blocks Per Set
+Digs Per Set
+Hitting Percentage
+Kills Per Set
+Kills SG Highs
+Points
+Points Per Set
+Service Aces
+Total Assists
+Total Attacks
+Total Blocks
+Total Digs
+Total Kills
+TEAM STATISTICS
+Select a Team Statistic
+Aces Per Set
+Assists Per Set
+Blocks Per Set
+Digs Per Set
+Hitting Percentage
+Kills Per Set
+Match W-L Pctg.
+Opp Hitting Percentage
+Team Assists
+Team Attacks Per Set
+Team Digs
+Team Kills
+Team Service Aces
+Team Total Attacks
+Team Total Blocks
+Assists Per Set
+1
+2
+3
+Last updated
+Tuesday, September 30, 2025 9:09 am
+-
+Through games
+Monday, September 29, 2025
+Rank
+Name
+Team
+Cl
+Height
+Position
+S
+Assists
+Per Set
+1
+Maddie Waak
+Texas A&M
+Sr.
+5-10
+S
+43
+495
+11.51
+2
+Charlie Fuerbringer
+Wisconsin
+So.
+5-11
+S
+31
+352
+11.35
+3
+Chloe Wilmot
+Duquesne
+Jr.
+5-9
+S
+51
+576
+11.29
+4
+Averi Carlson
+SMU
+Sr.
+5-11
+S
+48
+542
+11.29
+5
+Cayley Hanson
+Mississippi St.
+So.
+6-2
+S
+42
+469
+11.17
+6
+Teodora Kričković
+Indiana
+Fr.
+6-1
+S
+41
+453
+11.05
+7
+Sydney Draper
+Princeton
+Jr.
+5-11
+S
+35
+386
+11.03
+8
+Alex Bower
+BYU
+So.
+5-11
+S
+48
+529
+11.02
+9
+Rian Finley
+Colorado
+Jr.
+6-0
+S
+44
+474
+10.77
+10
+Malayah Long
+Michigan St.
+Fr.
+6-1
+S
+43
+461
+10.72
+11
+Taylor Anderson
+Purdue
+Jr.
+6-1
+S
+47
+502
+10.68
+12
+Avery Scoggins
+Arizona
+So.
+6-0
+S
+43
+451
+10.49
+13
+Stella Swenson
+Minnesota
+Fr.
+6-1
+S
+43
+450
+10.47
+14
+Katherine Sandt
+Clemson
+So.
+6-0
+S
+52
+542
+10.42
+15
+Lily Bolen
+Rutgers
+So.
+5-7
+S
+48
+500
+10.42
+16
+Avery Van Hook
+South Dakota
+Jr.
+5-9
+S
+52
+539
+10.37
+17
+Kamyla Vega David
+USC Upstate
+So.
+5-9
+S
+53
+549
+10.36
+18
+Mokihana Tufono
+Ole Miss
+Sr.
+5-10
+S
+51
+528
+10.35
+19
+Kirsten Barrett
+Ga. Southern
+Sr.
+5-9
+S
+41
+420
+10.24
+20
+Isabela Haggard
+Marquette
+Fr.
+5-11
+S
+44
+450
+10.23
+21
+Deniz Dakak
+American
+So.
+6-0
+S
+50
+511
+10.22
+22
+Reese Messer
+Southern California
+Fr.
+5-11
+S
+45
+459
+10.20
+23
+Alexandra Sappia
+Saint Francis
+Jr.
+5-9
+S
+51
+519
+10.18
+24
+Nayelis Cabello
+Louisville
+So.
+6-0
+S
+41
+417
+10.17
+25
+Mia Loyd
+Air Force
+So.
+5-8
+S
+53
+537
+10.13
+-
+Grace Purichia
+IU Indy
+Jr.
+5-7
+S
+53
+537
+10.13
+27
+Kaylee Finnegan
+Butler
+Jr.
+5-10
+S
+52
+524
+10.08
+28
+Kaylie Kofe
+Utah St.
+So.
+5-8
+S
+42
+423
+10.07
+29
+Annalea Maeder
+Creighton
+Sr.
+6-1
+S
+50
+503
+10.06
+30
+Katie Boney
+Western Caro.
+Jr.
+6-0
+S
+46
+459
+9.98
+31
+Ava LeGrand
+Kansas St.
+Sr.
+6-0
+S
+35
+348
+9.94
+32
+Catalina Rochaix
+Eastern Ill.
+Sr.
+5-9
+S
+43
+427
+9.93
+33
+Kinslee McGowan
+North Ala.
+So.
+5-10
+S
+54
+536
+9.93
+34
+Rylee Martin
+South Dakota St.
+Jr.
+5-8
+S
+38
+377
+9.92
+35
+Kiki Remensperger
+Arkansas
+So.
+5-9
+S
+54
+532
+9.85
+36
+Sophia Hudepohl
+Lipscomb
+Sr.
+5-8
+S
+40
+394
+9.85
+37
+Mia Starr
+UC Davis
+Jr.
+5-10
+S
+36
+353
+9.81
+38
+Madi Maxwell
+Long Beach St.
+So.
+6-2
+S
+48
+470
+9.79
+39
+Bethanie Wu
+Yale
+So.
+5-10
+S
+37
+362
+9.78
+40
+Brooke Mosher
+Pittsburgh
+Sr.
+6-0
+S
+46
+448
+9.74
+41
+Savannah Cook
+FIU
+Sr.
+6-1
+S
+38
+370
+9.74
+42
+Anna Blaine
+Texas St.
+So.
+6-0
+S
+48
+467
+9.73
+43
+Jetta Brenning
+Saint Louis
+Fr.
+5-10
+S
+47
+457
+9.72
+44
+Macy Hinshaw
+Santa Clara
+So.
+5-9
+S
+53
+515
+9.72
+45
+Abby Schomers
+UCF
+Jr.
+6-0
+S
+42
+408
+9.71
+46
+Andi Spies
+Cincinnati
+So.
+5-10
+S
+45
+437
+9.71
+47
+Gracie Cagle
+Montana
+Jr.
+5-11
+S
+46
+446
+9.70
+48
+Isabella Bareford
+Vanderbilt
+Sr.
+5-9
+S
+42
+407
+9.69
+49
+Amanda Otten
+Bowling Green
+Jr.
+6-3
+S
+53
+511
+9.64
+50
+Alexis Haury
+Washington
+So.
+5-10
+S
+39
+376
+9.64
+NCAA Footer Navigation Menu
+Featured Sections
+March Madness
+Bracket Challenge Game
+Video
+TV Broadcast Schedule
+Newsletters
+Experience It Live
+Championship Tickets
+NCAA Fan Experience
+NCAA Travel
+DI Men's Basketball Tickets
+DI Women's Basketball Tickets
+Ticket Terms
+NCAA Championships
+Championship Central
+Championship Store
+Men's Final Four
+Women's Final Four
+Men's College World Series
+Women's College World Series
+About the NCAA
+NCAA.org
+Hall of Champions
+Eligibility Center
+Corporate Champions & Partners
+Broadcast Media and Services
+Careers in College Athletics
+Elite 90
+Feedback
+Terms of Service
+Accessibility and Closed Captioning
+AdChoices
+Privacy Policy
+RSS
+Do Not Sell or Share My Personal Information
+© 2025 NCAA | © 2025 TNT Sports, a division of Warner Bros. Discovery | All Rights Reserved
+NCAA.com is a part of Bleacher Report - Turner Sports Network, part of the Turner Sports and Entertainment Network.
