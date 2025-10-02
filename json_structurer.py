@@ -14,9 +14,14 @@ from openai import OpenAI
 load_dotenv()
 
 # ---- OpenAI client ----
-ENDPOINT = os.getenv("OPENAI_BASE_URL", "https://cdong1--azure-proxy-web-app.modal.run")
-API_KEY = os.getenv("OPENAI_API_KEY", "supersecretkey")
-DEPLOYMENT_NAME = os.getenv("OPENAI_DEPLOYMENT", "gpt-4o")
+
+ENDPOINT = os.getenv("OPENAI_BASE_URL")
+API_KEY = os.getenv("OPENAI_API_KEY")
+DEPLOYMENT_NAME = os.getenv("OPENAI_DEPLOYMENT")
+
+if not ENDPOINT or not API_KEY or not DEPLOYMENT_NAME:
+    raise RuntimeError("Missing required OpenAI environment variables.")
+
 client = OpenAI(base_url=ENDPOINT, api_key=API_KEY)
 # ---------------------------------------------------------
 
